@@ -9,9 +9,7 @@ Python 3.x
 
 ##How to Run :
 
-Clone or download the repository to your local machine:
-
-git clone https://github.com/your-username/atm-system.git
+Clone or download the repository to your local machine.
 
 Navigate to the project directory:
 
