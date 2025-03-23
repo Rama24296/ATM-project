@@ -6,10 +6,10 @@
 
 This is a simple ATM simulation program written in Python. It allows users to perform basic banking operations such as withdrawal, deposit, pin generation, mini statement, and pin reset. The program simulates the functionality of an ATM system and provides basic features for managing user accounts.
 
-##Requirements
+##Requirements  :
 Python 3.x
 
-##How to Run
+##How to Run :
 Clone or download the repository to your local machine.
 
 Navigate to the project directory.
