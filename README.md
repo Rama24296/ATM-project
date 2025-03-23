@@ -8,9 +8,14 @@ This is a simple ATM simulation program written in Python. It allows users to pe
 Python 3.x
 
 ##How to Run :
-Clone or download the repository to your local machine.
 
-Navigate to the project directory.
+Clone or download the repository to your local machine:
+
+git clone https://github.com/your-username/atm-system.git
+
+Navigate to the project directory:
+
+cd atm-system
 
 Run the Python script:
 
